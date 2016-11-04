@@ -1,3 +1,47 @@
 <resources>
+    <string name="a"></string>
     <string name="app_name">FieldForce</string>
+
+
+    <!--
+    =======================================================
+    Shop Info Activity Strings
+    =======================================================
+    -->
+    <string name="shop_name">Shop Name</string>
+    <string name="shop_open">Shop Open</string>
+    <string name="shop_closed">Shop Closed</string>
+    <string name="owner_not_available">Owner Not Available</string>
+    <string name="shop_not_exist">Shop Not Exist</string>
+    <string name="shop_contact_number">Shop Owner Conatct No.</string>
+    <string name="shop_owner_name">Shop Owner Name</string>
+    <string name="shop_address">Shop Address</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="new_variant">New Variants Needs</string>
+    <string name="scheme">Are You Getting Scheme</string>
+    <string name="remarks">Remarks</string>
+    <string name="give_status">Give Status</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="na">Na</string>
+    <string name="complaint_open">Complaint Open</string>
+    <string name="complaint_closed">Complaint Closed</string>
+    <string name="good_shop">Good Shop</string>
+    <string name="cancel">CANCEL</string>
+    <string name="next">NEXT</string>
+
+    <string name="empty_shop_name">please enter shop name.</string>
+    <string name="empty_shop_owner_name">please enter owner name.</string>
+    <string name="empty_contact_number">please enter contact number.</string>
+    <string name="empty_shop_address">Please enter shop address.</string>
+    <string name="empty_state">Please enter state.</string>
+    <string name="empty_city">Please enter city.</string>
+    <string name="empty_remark">Please enter remark.</string>
+    <string name="length_mobile">Mobile no can\'t be less than 10 digits.</string>
+    <string name="empty_image">Please enter shop image.</string>
+    <string name="empty_variant">Please select variants</string>
+    <string name="empty_scheme">Please select scheme.</string>
+    <string name="empty_shop_status">Please select status.</string>
+
 </resources>
