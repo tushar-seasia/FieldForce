@@ -1,6 +1,7 @@
 package com.etonsolution.fieldforce.utils;
 
 import android.support.annotation.Nullable;
+import android.text.TextUtils;
 
 /**
  * Created by BawejaTushar on 11/3/2016.

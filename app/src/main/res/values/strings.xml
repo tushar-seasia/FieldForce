@@ -2,6 +2,13 @@
     <string name="a"></string>
     <string name="app_name">FieldForce</string>
 
+    <!--
+    =======================================================
+    Server Related Strings
+    =======================================================
+    -->
+    <string name="error_server_communication">Unable to get data from server</string>
+
 
     <!--
     =======================================================

@@ -80,7 +80,7 @@
                 android:hint="@string/shop_name"/>
 
             <EditText
-                android:id="@+id/etContactNumber"
+                android:id="@+id/etOwnerName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/edit_text_background"
@@ -91,7 +91,7 @@
                 android:hint="@string/shop_owner_name"/>
 
             <EditText
-                android:id="@+id/etOwnerName"
+                android:id="@+id/etContactNumber"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/edit_text_background"
