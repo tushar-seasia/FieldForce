@@ -60,4 +60,18 @@ public class APIHelper {
         });
     }
 
+    public void userRegisterw(UserRegisterDTO userRegisterDTO, final APICallback<Map> callback){
+        apiService.userRegister(userRegisterDTO).enqueue(new Callback<Map>() {
+            @Override
+            public void onResponse(Response<Map> response, Retrofit retrofit) {
+                callback.onSuccess(response.body());
+            }
+
+            @Override
+            public void onFailure(Throwable t) {
+
+            }
+        });
+    }
+
 }

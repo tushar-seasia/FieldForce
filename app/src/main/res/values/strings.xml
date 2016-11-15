@@ -7,6 +7,9 @@
     Server Related Strings
     =======================================================
     -->
+    <string name="connection_wifi">Wifi enabled</string>
+    <string name="connection_mobile">Mobile data enabled</string>
+    <string name="connection_not_connected">Not connected to Internet</string>
     <string name="error_server_communication">Unable to get data from server</string>
 
 
